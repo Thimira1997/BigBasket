@@ -17,15 +17,6 @@ public class Register extends AppCompatActivity {
     Button btnRegister;
     public Button button;
 
-    public final Pattern EMAIL_ADDRESS_PATTERN = Pattern.compile(
-            "[a-zA-Z0-9+._%-+]{1,256}" +
-                    "@" +
-                    "[a-zA-Z0-9][a-zA-Z0-9-]{0,64}" +
-                    "(" +
-                    "." +
-                    "[a-zA-Z0-9][a-zA-Z0-9-]{0,25}" +
-                    ")+"
-    );
 
 
 
@@ -67,16 +58,7 @@ public class Register extends AppCompatActivity {
                     edtemail.requestFocus();
 
                 }
-                else{
 
-                    String checkemail = edtemail.getText().toString();
-                    if(!EMAIL_ADDRESS_PATTERN.matcher(checkemail).matches()){
-                        Toast.makeText(Register.this,"Invalid Email Address",Toast.LENGTH_SHORT).show();
-                        edtemail.requestFocus();
-
-                }
-
-                }
 
                 if(edtpass.getText().toString().trim().length()==0){
                     edtpass.setError("Password is not entered");
