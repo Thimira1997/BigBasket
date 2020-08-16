@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".TotalBill"></activity>
+        <activity android:name=".EnterDeliveryDetails"></activity>
+        <activity android:name=".TotalDeliveryCharge" />
+        <activity android:name=".ViewDeliveryPayment" />
+        <activity android:name=".YourDeliveryPaymentInfo" />
+        <activity android:name=".ViewYourDeliveryDetails" />
+        <activity android:name=".TotalBill" />
         <activity android:name=".ProfileEdit" />
         <activity android:name=".UserProfile" />
         <activity android:name=".Register" />
