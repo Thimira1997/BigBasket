@@ -32,4 +32,49 @@
     <string name="order1">Rs.450.00</string>
     <string name="delivery1">Rs.150.00</string>
     <string name="total1">Rs.600.00</string>
+
+    //IT19188164-Loshini Nilupuli S.K.
+        //activity_admin_login_page.xml
+        <string name="enter_username">Enter Username</string>
+        <string name="enter_password">Enter Password</string>
+        <string name="login2">Login</string>
+        <string name="userImage">image</string>
+        <string name="passLogo">Image</string>
+        <string name="adminIcon">image</string>
+
+        //activity_admin_home_page.xml
+        <string name="vegetable_store">Vegetable Store</string>
+        <string name="fruit_store">Fruit Store</string>
+
+        //activity_vegetable_page.xml
+        <string name="veg_Store">VEGETABLE STORE</string>
+        <string name="name">Item Name :</string>
+        <string name="quantity">Quantity :</string>
+        <string name="price">Price :</string>
+        <string name="itemNo">Item No :</string>
+        <string name="btnAdd">Add Item</string>
+        <string name="btnView">View All</string>
+        <string name="btnUpdate">Update</string>
+        <string name="btnDelete">Delete</string>
+        <string name="addImage">Image</string>
+
+        //activity_view_veg_page.xml
+        <string name="exampleNo">V001</string>
+        <string name="exampleName">Carrot</string>
+        <string name="exampleQuan">1Kg</string>
+        <string name="examplePrice">Rs.120.00</string>
+        <string name="btnorder">Order</string>
+        <string name="carrot">Image</string>
+
+        //activity_fruit_page.xml
+        <string name="fruit_Store">FRUIT STORE</string>
+
+        //activity_view_fruit_page.xml
+        <string name="exampleNo2">F100</string>
+        <string name="exampleName2">Pineapple</string>
+        <string name="exampleQuan2">1Kg</string>
+        <string name="examplePrice2">Rs.150.00</string>
+        <string name="btnorder2">Order</string>
+        <string name="grapes">Image</string>
+
 </resources>
