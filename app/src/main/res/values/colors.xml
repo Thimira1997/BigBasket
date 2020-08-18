@@ -3,4 +3,38 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+
+    // Interface1
+    <color name="name">#fafafa</color>
+    <color name="mobile">#fafafa</color>
+    <color name="email">#fafafa</color>
+    <color name="address1">#fafafa</color>
+    <color name="address2">#fafafa</color>
+    <color name="address3">#fafafa</color>
+    <color name="date">#fafafa</color>
+
+    // Interface 5
+    <color name="chargeFor1">#000000</color>
+    <color name="NoOfKm">#000000</color>
+    <color name="TotalCharge">#000000</color>
+    <color name="Pay">#aaaaaa</color>
+
+    // Interface 4
+    <color name="destination">#000000</color>
+    <color name="txt1">#fafafa</color>
+
+    // Interface 2
+    <color name="Txt1">#fafafa</color>
+    <color name="Txt2">#fafafa</color>
+    <color name="Txt3">#fafafa</color>
+    <color name="Txt4">#fafafa</color>
+    <color name="Txt5">#fafafa</color>
+    <color name="Txt6">#fafafa</color>
+    <color name="Txt7">#fafafa</color>
+
+    // Interface 3
+    <color name="Pay1">#000000</color>
+    <color name="Pay2">#000000</color>
+    <color name="Pay3">#000000</color>
 </resources>
